@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">cumple</string>
+    <string name="feliz_cumple">Feliz Cumple</string>
+    <string name="feliz_cumple_image">Feliz Cumple</string>
+    <string name="say_something">Say Something!!!</string>
+    <string name="by_andres">By Andres</string>
+    <string name="imagen_aleatoria">Imagen Aleatoria</string>
 </resources>
